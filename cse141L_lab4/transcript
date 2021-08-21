@@ -1,0 +1,1083 @@
+# Errors: 5, Warnings: 0
+# Errors: 4, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 5, Warnings: 0
+# Errors: 4, Warnings: 0
+# Errors: 5, Warnings: 0
+# Compile of ALU.sv failed.
+# Errors: 4, Warnings: 0
+# Compile of Ctrl.sv failed.
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 3, Warnings: 0
+# Errors: 2, Warnings: 0
+# Errors: 3, Warnings: 0
+# Errors: 2, Warnings: 0
+# Errors: 3, Warnings: 0
+# Compile of ALU.sv failed.
+# Errors: 2, Warnings: 0
+# Compile of Ctrl.sv failed.
+# There were 2 file(s) that could not be compiled successfullyErrors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of ALU.sv failed.
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# All compile dependencies have been resolved.Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+vsim -gui work.encrypt_tb
+# vsim -gui work.encrypt_tb 
+# Start time: 21:32:45 on Aug 20,2021
+# Loading sv_std.std
+# Loading work.encrypt_tb
+# ** Error: (vsim-3033) Instantiation of 'top_level_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb File: C:/cse141l/prog2/program1_tb1.sv Line: 67
+#         Searched libraries:
+#             C:/cse141L_lab4/work
+# Error loading design
+# End time: 21:32:46 on Aug 20,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 9
+# Errors: 2, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 2, Warnings: 0
+# Errors: 2, Warnings: 0
+# Compile of data_mem.sv failed.
+# There were 1 file(s) that could not be compiled successfullyErrors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.encrypt_tb
+# vsim -gui work.encrypt_tb 
+# Start time: 21:35:27 on Aug 20,2021
+# Loading sv_std.std
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+# ** Error: (vsim-3063) Port 'init' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut File: C:/cse141l/prog2/program1_tb1.sv Line: 67
+# Error loading design
+# End time: 21:35:28 on Aug 20,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.encrypt_tb
+# vsim -gui work.encrypt_tb 
+# Start time: 21:38:02 on Aug 20,2021
+# Loading sv_std.std
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+quit -sim
+# End time: 21:50:33 on Aug 20,2021, Elapsed time: 0:12:31
+# Errors: 0, Warnings: 2
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of ALU.sv failed.
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.encrypt_tb
+# vsim -gui work.encrypt_tb 
+# Start time: 21:54:32 on Aug 20,2021
+# Loading sv_std.std
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 145 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory read M[ 96] =   x
+# Memory read M[  x] =   x
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 145 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# All compile dependencies have been resolved.run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory read M[ 96] =   0
+# Memory read M[  0] =  77
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 145 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 145 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Memory read M[  0] =  96
+# Memory read M[ 96] =   0
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# All compile dependencies have been resolved.restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Memory read M[  0] =  96
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Memory read M[  0] =  96
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Break in Module data_mem at C:/cse141L_lab4/data_mem.sv line 14
+step
+step
+# Memory read M[  0] =  96
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -out
+step -out
+step -out
+step -out
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step -out
+step -out
+# Next activity is in 5 ns.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Break in Module data_mem at C:/cse141L_lab4/data_mem.sv line 14
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Memory read M[  0] =  96
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Break in Module Ctrl at C:/cse141L_lab4/Ctrl.sv line 118
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Memory read M[  0] =  96
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+# Next activity is in 5 ns.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Break in Module Ctrl at C:/cse141L_lab4/Ctrl.sv line 118
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+restart -f
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =   0
+# Memory read M[  0] =   0
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+quit -sim
+# End time: 23:16:09 on Aug 20,2021, Elapsed time: 1:21:37
+# Errors: 0, Warnings: 2
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 6, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 6, Warnings: 0
+# Errors: 6, Warnings: 0
+# Compile of Ctrl.sv failed.
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.encrypt_tb
+# vsim -gui work.encrypt_tb 
+# Start time: 23:21:29 on Aug 20,2021
+# Loading sv_std.std
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  37
+# Memory read M[  0] =  37
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Break in Module Ctrl at C:/cse141L_lab4/Ctrl.sv line 127
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Break in Module Ctrl at C:/cse141L_lab4/Ctrl.sv line 127
+step
+step
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+run -all
+# Break in Module Ctrl at C:/cse141L_lab4/Ctrl.sv line 130
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# All compile dependencies have been resolved.restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.encrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 140 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lookup_table.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/cse141L_lab4/LUT.sv(10)
+#    Time: 0 ps  Iteration: 0  Instance: /encrypt_tb/dut/lookup_table
+# Memory write M[  0] =  96
+# Memory read M[  0] =  96
+# ** Note: $stop    : C:/cse141l/prog2/program1_tb1.sv(145)
+#    Time: 155 ns  Iteration: 0  Instance: /encrypt_tb
+# Break in Module encrypt_tb at C:/cse141l/prog2/program1_tb1.sv line 145

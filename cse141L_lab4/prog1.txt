@@ -1,0 +1,7 @@
+mov r4 1
+lft r4 3
+lft r4 3
+sub r4 1
+mov sp r4
+lod r0 sp
+
