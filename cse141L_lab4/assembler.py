@@ -76,7 +76,7 @@ for line in lines:
             if inputs[1] == "sp":
                 rt = "{0:03b}".format(int(7))
                 rs = "{0:03b}".format(int(inputs[2][1]))
-            elif:
+            elif inputs[2] == "sp":
                 rt = "{0:03b}".format(int(inputs[1][1])) 
                 rs = "{0:03b}".format(int(7))
             else:
