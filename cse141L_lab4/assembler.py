@@ -99,6 +99,15 @@ for line in lines:
         func = "1"
         imm = "{0:02b}".format(int(inputs[2]))
         rs = func + imm
+    elif key == "lfsr":
+        rt = "{0:03b}".format(int(inputs[1][1]))
+        rs = "111"
+    elif key == "lup":
+        if len(inputs==2):
+            rs="111"
+        else:
+            rs = "{0:03b}".format(int(inputs[2][1]))
+        rt = "{0:03b}".format(int(inputs[1][1]))
     elif key == "halt":
         rt = "000"
         rs = "000"
