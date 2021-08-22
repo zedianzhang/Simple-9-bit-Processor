@@ -1,0 +1,1324 @@
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog3_tb.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog2_tb.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.decrypt_depad_tb
+# vsim -gui work.decrypt_depad_tb 
+# Start time: 11:53:36 on Aug 22,2021
+# Loading sv_std.std
+# Loading work.decrypt_depad_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# Memory read M[ 73] =  89
+# Memory read M[ 64] =   0
+#    0
+#   0
+#  592
+#   0
+# Memory read M[ 64] =   0
+#    1
+#   0
+#  657
+#   0
+# Memory read M[ 64] =   0
+#    2
+#   0
+#  770
+#   0
+# Memory read M[ 64] =   0
+#    3
+#   0
+# 1379
+#   0
+# Memory read M[ 64] =   0
+#    4
+#   0
+# 1060
+#   0
+# Memory read M[ 64] =   0
+#    5
+#   0
+#  933
+#   0
+# Memory read M[ 64] =   0
+#    6
+#   0
+# 1014
+#   0
+# Memory read M[ 64] =   0
+#    7
+#   0
+# 1959
+#   0
+# Memory read M[ 64] =   0
+#    8
+#   0
+# 1432
+#   0
+# Memory read M[ 64] =   0
+# Memory write M[192] =  32
+# Memory write M[193] =  65
+# Memory write M[194] =   2
+# Memory write M[195] =   5
+# Memory write M[196] =  11
+# Memory write M[197] =  23
+# Memory write M[198] =  47
+# Memory write M[199] =  94
+# Memory write M[200] =  60
+# Memory write M[201] = 121
+# Memory write M[202] = 115
+# Memory write M[203] = 103
+# Memory write M[204] =  78
+# Memory write M[205] =  29
+# Memory write M[206] =  59
+# Memory write M[207] = 119
+# Memory write M[208] = 111
+# Memory write M[209] =  95
+# Memory write M[210] =  63
+# Memory write M[211] = 127
+# Memory write M[212] = 126
+# Memory write M[213] = 125
+# Memory write M[214] = 123
+# Memory write M[215] = 118
+# Memory write M[216] = 108
+# Memory write M[217] =  89
+# Memory write M[218] =  50
+# Memory write M[219] = 101
+# Memory write M[220] =  75
+# Memory write M[221] =  22
+# Memory write M[222] =  44
+# Memory write M[223] =  88
+# Memory write M[224] =  49
+# Memory write M[225] =  99
+# Memory write M[226] =  70
+# Memory write M[227] =  12
+# Memory write M[228] =  25
+# Memory write M[229] =  51
+# Memory write M[230] = 102
+# Memory write M[231] =  77
+# Memory write M[232] =  27
+# Memory write M[233] =  54
+# Memory write M[234] = 109
+# Memory write M[235] =  90
+# Memory write M[236] =  52
+# Memory write M[237] = 104
+# Memory write M[238] =  81
+# Memory write M[239] =  35
+# Memory write M[240] =  71
+# Memory write M[241] =  15
+# Memory write M[242] =  31
+# Memory write M[243] =  62
+# Memory write M[244] = 124
+# Memory write M[245] = 120
+# Memory write M[246] = 112
+# Memory write M[247] =  97
+# Memory write M[248] =  67
+# Memory write M[249] =   7
+# Memory write M[250] =  14
+# Memory write M[251] =  28
+# Memory write M[252] =  56
+# Memory write M[253] = 113
+# Memory write M[254] =  98
+# Memory write M[255] =  69
+# Memory read M[ 64] =   0
+# Memory read M[192] =  32
+# Memory read M[ 65] = 225
+# Memory read M[193] =  65
+# Memory read M[ 66] =  34
+# Memory read M[194] =   2
+# Memory read M[ 67] = 165
+# Memory read M[195] =   5
+# Memory read M[ 68] =  43
+# Memory read M[196] =  11
+# Memory read M[ 69] = 183
+# Memory read M[197] =  23
+# Memory read M[ 70] =  15
+# Memory read M[198] =  47
+# Memory read M[ 71] = 126
+# Memory read M[199] =  94
+# Memory read M[ 72] = 156
+# Memory read M[200] =  60
+# Memory read M[ 73] =  89
+# Memory read M[201] = 121
+# Memory read M[ 74] =  83
+# Memory read M[202] = 115
+# Memory read M[ 75] =  71
+# Memory read M[203] = 103
+# Memory read M[ 76] = 238
+# Memory read M[204] =  78
+# Memory read M[ 77] =  80
+# Memory read M[205] =  29
+# Memory read M[ 77] =  80
+# Memory read M[ 77] =  80
+# Memory read M[205] =  29
+# Memory write M[  0] =  77
+# Memory read M[ 78] = 201
+# Memory read M[ 78] = 201
+# Memory read M[206] =  59
+# Memory write M[  1] = 114
+# Memory read M[ 79] =  89
+# Memory read M[ 79] =  89
+# Memory read M[207] = 119
+# Memory write M[  2] =  46
+# Memory read M[ 80] = 207
+# Memory read M[ 80] = 207
+# Memory read M[208] = 111
+# Memory write M[  3] =  32
+# Memory read M[ 81] = 136
+# Memory read M[ 81] = 136
+# Memory read M[209] =  95
+# Memory write M[  4] =  87
+# Memory read M[ 82] = 222
+# Memory read M[ 82] = 222
+# Memory read M[210] =  63
+# Memory write M[  5] =  97
+# Memory read M[ 83] = 139
+# Memory read M[ 83] = 139
+# Memory read M[211] = 127
+# Memory write M[  6] = 116
+# Memory read M[ 84] = 141
+# Memory read M[ 84] = 141
+# Memory read M[212] = 126
+# Memory write M[  7] = 115
+# Memory read M[ 85] =  18
+# Memory read M[ 85] =  18
+# Memory read M[213] = 125
+# Memory write M[  8] = 111
+# Memory read M[ 86] = 149
+# Memory read M[ 86] = 149
+# Memory read M[214] = 123
+# Memory write M[  9] = 110
+# Memory read M[ 87] =  90
+# Memory read M[ 87] =  90
+# Memory read M[215] = 118
+# Memory write M[ 10] =  44
+# Memory read M[ 88] = 204
+# Memory read M[ 88] = 204
+# Memory read M[216] = 108
+# Memory write M[ 11] =  32
+# Memory read M[ 89] =  58
+# Memory read M[ 89] =  58
+# Memory read M[217] =  89
+# Memory write M[ 12] =  99
+# Memory read M[ 90] = 221
+# Memory read M[ 90] = 221
+# Memory read M[218] =  50
+# Memory write M[ 13] = 111
+# Memory read M[ 91] = 136
+# Memory read M[ 91] = 136
+# Memory read M[219] = 101
+# Memory write M[ 14] = 109
+# Memory read M[ 92] =  46
+# Memory read M[ 92] =  46
+# Memory read M[220] =  75
+# Memory write M[ 15] = 101
+# Memory read M[ 93] =  54
+# Memory read M[ 93] =  54
+# Memory read M[221] =  22
+# Memory write M[ 16] =  32
+# Memory read M[ 94] =  70
+# Memory write M[ 17] = 128
+# Memory read M[ 95] = 189
+# Memory read M[ 95] = 189
+# Memory read M[223] =  88
+# Memory write M[ 18] = 101
+# Memory read M[ 96] = 195
+# Memory read M[ 96] = 195
+# Memory read M[224] =  49
+# Memory write M[ 19] = 114
+# Memory read M[ 97] =   6
+# Memory read M[ 97] =   6
+# Memory read M[225] =  99
+# Memory write M[ 20] = 101
+# Memory read M[ 98] = 232
+# Memory read M[ 98] = 232
+# Memory read M[226] =  70
+# Memory write M[ 21] =  46
+# Memory read M[ 99] = 172
+# Memory read M[ 99] = 172
+# Memory read M[227] =  12
+# Memory write M[ 22] =  32
+# Memory read M[100] =  80
+# Memory read M[100] =  80
+# Memory read M[228] =  25
+# Memory write M[ 23] =  73
+# Memory read M[101] = 211
+# Memory write M[ 24] = 128
+# Memory read M[102] =  49
+# Memory write M[ 25] = 128
+# Memory read M[103] = 172
+# Memory read M[103] = 172
+# Memory read M[231] =  77
+# Memory write M[ 26] =  97
+# Memory read M[104] = 245
+# Memory read M[104] = 245
+# Memory read M[232] =  27
+# Memory write M[ 27] = 110
+# Memory read M[105] =  66
+# Memory read M[105] =  66
+# Memory read M[233] =  54
+# Memory write M[ 28] = 116
+# Memory read M[106] =  77
+# Memory read M[106] =  77
+# Memory read M[234] = 109
+# Memory write M[ 29] =  32
+# Memory read M[107] =  46
+# Memory read M[107] =  46
+# Memory read M[235] =  90
+# Memory write M[ 30] = 116
+# Memory read M[108] = 219
+# Memory read M[108] = 219
+# Memory read M[236] =  52
+# Memory write M[ 31] = 111
+# Memory read M[109] =  72
+# Memory read M[109] =  72
+# Memory read M[237] = 104
+# Memory write M[ 32] =  32
+# Memory read M[110] =  34
+# Memory read M[110] =  34
+# Memory read M[238] =  81
+# Memory write M[ 33] = 115
+# Memory read M[111] = 230
+# Memory write M[ 34] = 128
+# Memory read M[112] =  34
+# Memory read M[112] =  34
+# Memory read M[240] =  71
+# Memory write M[ 35] = 101
+# Memory read M[113] = 175
+# Memory read M[113] = 175
+# Memory read M[241] =  15
+# Memory write M[ 36] =  32
+# Memory read M[114] = 102
+# Memory read M[114] = 102
+# Memory read M[242] =  31
+# Memory write M[ 37] = 121
+# Memory read M[115] = 209
+# Memory read M[115] = 209
+# Memory read M[243] =  62
+# Memory write M[ 38] = 111
+# Memory read M[116] =   9
+# Memory read M[116] =   9
+# Memory read M[244] = 124
+# Memory write M[ 39] = 117
+# Memory read M[117] =  86
+# Memory read M[117] =  86
+# Memory read M[245] = 120
+# Memory write M[ 40] =  46
+# Memory read M[118] =  81
+# Memory write M[ 41] = 128
+# Memory read M[119] =  65
+# Memory read M[119] =  65
+# Memory read M[247] =  97
+# Memory write M[ 42] =  32
+# Memory read M[120] =  99
+# Memory read M[120] =  99
+# Memory read M[248] =  67
+# Memory write M[ 43] =  32
+# Memory read M[121] =  39
+# Memory read M[121] =  39
+# Memory read M[249] =   7
+# Memory write M[ 44] =  32
+# Memory read M[122] =  46
+# Memory read M[122] =  46
+# Memory read M[250] =  14
+# Memory write M[ 45] =  32
+# Memory read M[123] =  60
+# Memory read M[123] =  60
+# Memory read M[251] =  28
+# Memory write M[ 46] =  32
+# Memory read M[124] =  24
+# Memory read M[124] =  24
+# Memory read M[252] =  56
+# Memory write M[ 47] =  32
+# Memory read M[125] = 209
+# Memory read M[125] = 209
+# Memory read M[253] = 113
+# Memory write M[ 48] =  32
+# Memory read M[126] =  66
+# Memory read M[126] =  66
+# Memory read M[254] =  98
+# Memory write M[ 49] =  32
+# Memory read M[127] = 101
+# Memory read M[127] = 101
+# Memory read M[255] =  69
+# Memory write M[ 50] =  32
+# Memory write M[ 51] =  32
+# Memory write M[ 52] =  32
+# Memory write M[ 53] =  32
+# Memory write M[ 54] =  32
+# Memory write M[ 55] =  32
+# Memory write M[ 56] =  32
+# Memory write M[ 57] =  32
+# Memory write M[ 58] =  32
+# Memory write M[ 59] =  32
+# Memory write M[ 60] =  32
+# Memory write M[ 61] =  32
+# Memory write M[ 62] =  32
+# Memory write M[ 63] =  32
+# error successfully flagged
+# error successfully flagged
+# error successfully flagged
+# error successfully flagged
+# error successfully flagged
+# ** Note: $stop    : C:/cse141L_lab4/prog3_tb.sv(161)
+#    Time: 27115 ns  Iteration: 0  Instance: /decrypt_depad_tb
+# Break in Module decrypt_depad_tb at C:/cse141L_lab4/prog3_tb.sv line 161
+vsim -gui work.decrypt_tb
+# End time: 12:02:07 on Aug 22,2021, Elapsed time: 0:08:31
+# Errors: 0, Warnings: 3
+# vsim -gui work.decrypt_tb 
+# Start time: 12:02:07 on Aug 22,2021
+# Loading sv_std.std
+# Loading work.decrypt_tb
+# ** Error: (vsim-3033) Instantiation of 'top_level_2' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /decrypt_tb File: C:/cse141L_lab4/prog2_tb.sv Line: 65
+#         Searched libraries:
+#             C:/cse141L_lab4/work
+# Error loading design
+# End time: 12:02:07 on Aug 22,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog3_tb.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog2_tb.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.decrypt_tb
+# vsim -gui work.decrypt_tb 
+# Start time: 12:02:30 on Aug 22,2021
+# Loading sv_std.std
+# Loading work.decrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+# ** Error: (vsim-3063) Port 'init' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /decrypt_tb/dut File: C:/cse141L_lab4/prog2_tb.sv Line: 65
+# Error loading design
+# End time: 12:02:30 on Aug 22,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of program1_tb1.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog3_tb.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog2_tb.sv was successful.
+# All compile dependencies have been resolved.vsim -gui work.decrypt_tb
+# vsim -gui work.decrypt_tb 
+# Start time: 12:02:59 on Aug 22,2021
+# Loading sv_std.std
+# Loading work.decrypt_tb
+# Loading work.prog
+# Loading work.PC
+# Loading work.InstROM
+# Loading work.Ctrl
+# Loading work.LUT
+# Loading work.reg_file
+# Loading work.ALU
+# Loading work.LFSR_prog2_LUT
+# Loading work.data_mem
+run -all
+# Memory read M[ 73] = 165
+# Memory read M[ 64] =   0
+#    0
+#   0
+#  592
+#   0
+# Memory read M[ 64] =   0
+# Memory write M[192] =  32
+# Memory write M[193] =  65
+# Memory write M[194] =   3
+# Memory write M[195] =   6
+# Memory write M[196] =  12
+# Memory write M[197] =  24
+# Memory write M[198] =  48
+# Memory write M[199] =  97
+# Memory write M[200] =  66
+# Memory write M[201] =   5
+# Memory write M[202] =  10
+# Memory write M[203] =  20
+# Memory write M[204] =  40
+# Memory write M[205] =  81
+# Memory write M[206] =  35
+# Memory write M[207] =  71
+# Memory write M[208] =  15
+# Memory write M[209] =  30
+# Memory write M[210] =  60
+# Memory write M[211] = 121
+# Memory write M[212] = 114
+# Memory write M[213] = 100
+# Memory write M[214] =  72
+# Memory write M[215] =  17
+# Memory write M[216] =  34
+# Memory write M[217] =  69
+# Memory write M[218] =  11
+# Memory write M[219] =  22
+# Memory write M[220] =  44
+# Memory write M[221] =  89
+# Memory write M[222] =  51
+# Memory write M[223] = 103
+# Memory write M[224] =  78
+# Memory write M[225] =  29
+# Memory write M[226] =  58
+# Memory write M[227] = 117
+# Memory write M[228] = 106
+# Memory write M[229] =  84
+# Memory write M[230] =  41
+# Memory write M[231] =  83
+# Memory write M[232] =  39
+# Memory write M[233] =  79
+# Memory write M[234] =  31
+# Memory write M[235] =  62
+# Memory write M[236] = 125
+# Memory write M[237] = 122
+# Memory write M[238] = 116
+# Memory write M[239] = 104
+# Memory write M[240] =  80
+# Memory write M[241] =  33
+# Memory write M[242] =  67
+# Memory write M[243] =   7
+# Memory write M[244] =  14
+# Memory write M[245] =  28
+# Memory write M[246] =  56
+# Memory write M[247] = 113
+# Memory write M[248] =  98
+# Memory write M[249] =  68
+# Memory write M[250] =   9
+# Memory write M[251] =  18
+# Memory write M[252] =  36
+# Memory write M[253] =  73
+# Memory write M[254] =  19
+# Memory write M[255] =  38
+# Memory read M[ 64] =   0
+# Memory read M[192] =  32
+# Memory write M[ 63] =  32
+# Memory read M[ 65] = 225
+# Memory read M[193] =  65
+# Memory write M[ 63] = 160
+# Memory read M[ 66] = 163
+# Memory read M[194] =   3
+# Memory write M[ 63] = 160
+# Memory read M[ 67] = 166
+# Memory read M[195] =   6
+# Memory write M[ 63] = 160
+# Memory read M[ 68] = 172
+# Memory read M[196] =  12
+# Memory write M[ 63] = 160
+# Memory read M[ 69] = 184
+# Memory read M[197] =  24
+# Memory write M[ 63] = 160
+# Memory read M[ 70] = 144
+# Memory read M[198] =  48
+# Memory write M[ 63] = 160
+# Memory read M[ 71] =  65
+# Memory read M[199] =  97
+# Memory write M[ 63] =  32
+# Memory read M[ 72] = 226
+# Memory read M[200] =  66
+# Memory write M[ 63] = 160
+# Memory read M[ 73] = 165
+# Memory read M[201] =   5
+# Memory write M[ 63] = 160
+# Memory read M[ 74] = 170
+# Memory read M[202] =  10
+# Memory write M[ 63] = 160
+# Memory read M[ 75] = 180
+# Memory read M[203] =  20
+# Memory write M[ 63] = 160
+# Memory read M[ 76] = 136
+# Memory read M[204] =  40
+# Memory write M[ 63] = 160
+# Memory read M[ 77] = 156
+# Memory read M[205] =  81
+# Memory write M[ 63] = 205
+# Memory read M[ 78] = 209
+# Memory read M[206] =  35
+# Memory write M[ 63] = 242
+# Memory read M[ 79] = 105
+# Memory read M[207] =  71
+# Memory write M[ 63] =  46
+# Memory read M[ 80] = 175
+# Memory read M[208] =  15
+# Memory write M[ 63] = 160
+# Memory read M[ 81] = 201
+# Memory read M[209] =  30
+# Memory write M[ 63] = 215
+# Memory read M[ 82] = 221
+# Memory read M[210] =  60
+# Memory write M[ 63] = 225
+# Memory read M[ 83] = 141
+# Memory read M[211] = 121
+# Memory write M[ 63] = 244
+# Memory read M[ 84] = 129
+# Memory read M[212] = 114
+# Memory write M[ 63] = 243
+# Memory read M[ 85] = 139
+# Memory read M[213] = 100
+# Memory write M[ 63] = 239
+# Memory read M[ 86] = 166
+# Memory read M[214] =  72
+# Memory write M[ 63] = 238
+# Memory read M[ 87] = 189
+# Memory read M[215] =  17
+# Memory write M[ 63] = 172
+# Memory read M[ 88] = 130
+# Memory read M[216] =  34
+# Memory write M[ 63] = 160
+# Memory read M[ 89] = 166
+# Memory read M[217] =  69
+# Memory write M[ 63] = 227
+# Memory read M[ 90] = 228
+# Memory read M[218] =  11
+# Memory write M[ 63] = 239
+# Memory read M[ 91] = 123
+# Memory read M[219] =  22
+# Memory write M[ 63] = 109
+# Memory read M[ 92] = 201
+# Memory read M[220] =  44
+# Memory write M[ 63] = 229
+# Memory read M[ 93] = 249
+# Memory read M[221] =  89
+# Memory write M[ 63] = 160
+# Memory read M[ 94] = 219
+# Memory read M[222] =  51
+# Memory write M[ 63] = 232
+# Memory read M[ 95] = 130
+# Memory read M[223] = 103
+# Memory write M[ 63] = 229
+# Memory read M[ 96] =  60
+# Memory read M[224] =  78
+# Memory write M[ 63] = 114
+# Memory read M[ 97] = 120
+# Memory read M[225] =  29
+# Memory write M[ 63] = 101
+# Memory read M[ 98] =  20
+# Memory read M[226] =  58
+# Memory write M[ 63] =  46
+# Memory read M[ 99] =  85
+# Memory read M[227] = 117
+# Memory write M[ 63] =  32
+# Memory read M[100] = 163
+# Memory read M[228] = 106
+# Memory write M[ 63] = 201
+# Memory read M[101] = 116
+# Memory read M[229] =  84
+# Memory write M[ 63] =  32
+# Memory read M[102] = 222
+# Memory read M[230] =  41
+# Memory write M[ 63] = 247
+# Memory read M[103] = 178
+# Memory read M[231] =  83
+# Memory write M[ 63] = 225
+# Memory read M[104] = 201
+# Memory read M[232] =  39
+# Memory write M[ 63] = 238
+# Memory read M[105] = 187
+# Memory read M[233] =  79
+# Memory write M[ 63] = 244
+# Memory read M[106] =  63
+# Memory read M[234] =  31
+# Memory write M[ 63] =  32
+# Memory read M[107] = 202
+# Memory read M[235] =  62
+# Memory write M[ 63] = 244
+# Memory read M[108] =  18
+# Memory read M[236] = 125
+# Memory write M[ 63] = 111
+# Memory read M[109] =  90
+# Memory read M[237] = 122
+# Memory write M[ 63] =  32
+# Memory read M[110] = 135
+# Memory read M[238] = 116
+# Memory write M[ 63] = 243
+# Memory read M[111] = 141
+# Memory read M[239] = 104
+# Memory write M[ 63] = 229
+# Memory read M[112] =  53
+# Memory read M[240] =  80
+# Memory write M[ 63] = 101
+# Memory read M[113] = 129
+# Memory read M[241] =  33
+# Memory write M[ 63] = 160
+# Memory read M[114] =  58
+# Memory read M[242] =  67
+# Memory write M[ 63] = 121
+# Memory read M[115] = 232
+# Memory read M[243] =   7
+# Memory write M[ 63] = 239
+# Memory read M[116] = 123
+# Memory read M[244] =  14
+# Memory write M[ 63] = 117
+# Memory read M[117] = 178
+# Memory read M[245] =  28
+# Memory write M[ 63] = 174
+# Memory read M[118] =  24
+# Memory read M[246] =  56
+# Memory write M[ 63] =  32
+# Memory read M[119] = 209
+# Memory read M[247] = 113
+# Memory write M[ 63] = 160
+# Memory read M[120] =  66
+# Memory read M[248] =  98
+# Memory write M[ 63] =  32
+# Memory read M[121] = 228
+# Memory read M[249] =  68
+# Memory write M[ 63] = 160
+# Memory read M[122] = 169
+# Memory read M[250] =   9
+# Memory write M[ 63] = 160
+# Memory read M[123] = 178
+# Memory read M[251] =  18
+# Memory write M[ 63] = 160
+# Memory read M[124] = 132
+# Memory read M[252] =  36
+# Memory write M[ 63] = 160
+# Memory read M[125] = 105
+# Memory read M[253] =  73
+# Memory write M[ 63] =  32
+# Memory read M[126] =  51
+# Memory read M[254] =  19
+# Memory write M[ 63] =  32
+# Memory read M[127] =   6
+# Memory read M[255] =  38
+# Memory write M[ 63] =  32
+# ** Note: $stop    : C:/cse141L_lab4/prog2_tb.sv(145)
+#    Time: 12605 ns  Iteration: 0  Instance: /decrypt_tb
+# Break in Module decrypt_tb at C:/cse141L_lab4/prog2_tb.sv line 145
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Memory read M[ 73] = 165
+# Memory read M[ 64] =   0
+#    0
+#   0
+#  592
+#   0
+# Memory read M[ 64] =   0
+# Memory write M[192] =  32
+# Memory write M[193] =  65
+# Memory write M[194] =   3
+# Memory write M[195] =   6
+# Memory write M[196] =  12
+# Memory write M[197] =  24
+# Memory write M[198] =  48
+# Memory write M[199] =  97
+# Memory write M[200] =  66
+# Memory write M[201] =   5
+# Memory write M[202] =  10
+# Memory write M[203] =  20
+# Memory write M[204] =  40
+# Memory write M[205] =  81
+# Memory write M[206] =  35
+# Memory write M[207] =  71
+# Memory write M[208] =  15
+# Memory write M[209] =  30
+# Memory write M[210] =  60
+# Memory write M[211] = 121
+# Memory write M[212] = 114
+# Memory write M[213] = 100
+# Memory write M[214] =  72
+# Memory write M[215] =  17
+# Memory write M[216] =  34
+# Memory write M[217] =  69
+# Memory write M[218] =  11
+# Memory write M[219] =  22
+# Memory write M[220] =  44
+# Memory write M[221] =  89
+# Memory write M[222] =  51
+# Memory write M[223] = 103
+# Memory write M[224] =  78
+# Memory write M[225] =  29
+# Memory write M[226] =  58
+# Memory write M[227] = 117
+# Memory write M[228] = 106
+# Memory write M[229] =  84
+# Memory write M[230] =  41
+# Memory write M[231] =  83
+# Memory write M[232] =  39
+# Memory write M[233] =  79
+# Memory write M[234] =  31
+# Memory write M[235] =  62
+# Memory write M[236] = 125
+# Memory write M[237] = 122
+# Memory write M[238] = 116
+# Memory write M[239] = 104
+# Memory write M[240] =  80
+# Memory write M[241] =  33
+# Memory write M[242] =  67
+# Memory write M[243] =   7
+# Memory write M[244] =  14
+# Memory write M[245] =  28
+# Memory write M[246] =  56
+# Memory write M[247] = 113
+# Memory write M[248] =  98
+# Memory write M[249] =  68
+# Memory write M[250] =   9
+# Memory write M[251] =  18
+# Memory write M[252] =  36
+# Memory write M[253] =  73
+# Memory write M[254] =  19
+# Memory write M[255] =  38
+# Memory read M[ 64] =   0
+# Memory read M[192] =  32
+# Memory write M[  0] =  32
+# Memory read M[ 65] = 225
+# Memory read M[193] =  65
+# Memory write M[  1] = 160
+# Memory read M[ 66] = 163
+# Memory read M[194] =   3
+# Memory write M[  2] = 160
+# Memory read M[ 67] = 166
+# Memory read M[195] =   6
+# Memory write M[  3] = 160
+# Memory read M[ 68] = 172
+# Memory read M[196] =  12
+# Memory write M[  4] = 160
+# Memory read M[ 69] = 184
+# Memory read M[197] =  24
+# Memory write M[  5] = 160
+# Memory read M[ 70] = 144
+# Memory read M[198] =  48
+# Memory write M[  6] = 160
+# Memory read M[ 71] =  65
+# Memory read M[199] =  97
+# Memory write M[  7] =  32
+# Memory read M[ 72] = 226
+# Memory read M[200] =  66
+# Memory write M[  8] = 160
+# Memory read M[ 73] = 165
+# Memory read M[201] =   5
+# Memory write M[  9] = 160
+# Memory read M[ 74] = 170
+# Memory read M[202] =  10
+# Memory write M[ 10] = 160
+# Memory read M[ 75] = 180
+# Memory read M[203] =  20
+# Memory write M[ 11] = 160
+# Memory read M[ 76] = 136
+# Memory read M[204] =  40
+# Memory write M[ 12] = 160
+# Memory read M[ 77] = 156
+# Memory read M[205] =  81
+# Memory write M[ 13] = 205
+# Memory read M[ 78] = 209
+# Memory read M[206] =  35
+# Memory write M[ 14] = 242
+# Memory read M[ 79] = 105
+# Memory read M[207] =  71
+# Memory write M[ 15] =  46
+# Memory read M[ 80] = 175
+# Memory read M[208] =  15
+# Memory write M[ 16] = 160
+# Memory read M[ 81] = 201
+# Memory read M[209] =  30
+# Memory write M[ 17] = 215
+# Memory read M[ 82] = 221
+# Memory read M[210] =  60
+# Memory write M[ 18] = 225
+# Memory read M[ 83] = 141
+# Memory read M[211] = 121
+# Memory write M[ 19] = 244
+# Memory read M[ 84] = 129
+# Memory read M[212] = 114
+# Memory write M[ 20] = 243
+# Memory read M[ 85] = 139
+# Memory read M[213] = 100
+# Memory write M[ 21] = 239
+# Memory read M[ 86] = 166
+# Memory read M[214] =  72
+# Memory write M[ 22] = 238
+# Memory read M[ 87] = 189
+# Memory read M[215] =  17
+# Memory write M[ 23] = 172
+# Memory read M[ 88] = 130
+# Memory read M[216] =  34
+# Memory write M[ 24] = 160
+# Memory read M[ 89] = 166
+# Memory read M[217] =  69
+# Memory write M[ 25] = 227
+# Memory read M[ 90] = 228
+# Memory read M[218] =  11
+# Memory write M[ 26] = 239
+# Memory read M[ 91] = 123
+# Memory read M[219] =  22
+# Memory write M[ 27] = 109
+# Memory read M[ 92] = 201
+# Memory read M[220] =  44
+# Memory write M[ 28] = 229
+# Memory read M[ 93] = 249
+# Memory read M[221] =  89
+# Memory write M[ 29] = 160
+# Memory read M[ 94] = 219
+# Memory read M[222] =  51
+# Memory write M[ 30] = 232
+# Memory read M[ 95] = 130
+# Memory read M[223] = 103
+# Memory write M[ 31] = 229
+# Memory read M[ 96] =  60
+# Memory read M[224] =  78
+# Memory write M[ 32] = 114
+# Memory read M[ 97] = 120
+# Memory read M[225] =  29
+# Memory write M[ 33] = 101
+# Memory read M[ 98] =  20
+# Memory read M[226] =  58
+# Memory write M[ 34] =  46
+# Memory read M[ 99] =  85
+# Memory read M[227] = 117
+# Memory write M[ 35] =  32
+# Memory read M[100] = 163
+# Memory read M[228] = 106
+# Memory write M[ 36] = 201
+# Memory read M[101] = 116
+# Memory read M[229] =  84
+# Memory write M[ 37] =  32
+# Memory read M[102] = 222
+# Memory read M[230] =  41
+# Memory write M[ 38] = 247
+# Memory read M[103] = 178
+# Memory read M[231] =  83
+# Memory write M[ 39] = 225
+# Memory read M[104] = 201
+# Memory read M[232] =  39
+# Memory write M[ 40] = 238
+# Memory read M[105] = 187
+# Memory read M[233] =  79
+# Memory write M[ 41] = 244
+# Memory read M[106] =  63
+# Memory read M[234] =  31
+# Memory write M[ 42] =  32
+# Memory read M[107] = 202
+# Memory read M[235] =  62
+# Memory write M[ 43] = 244
+# Memory read M[108] =  18
+# Memory read M[236] = 125
+# Memory write M[ 44] = 111
+# Memory read M[109] =  90
+# Memory read M[237] = 122
+# Memory write M[ 45] =  32
+# Memory read M[110] = 135
+# Memory read M[238] = 116
+# Memory write M[ 46] = 243
+# Memory read M[111] = 141
+# Memory read M[239] = 104
+# Memory write M[ 47] = 229
+# Memory read M[112] =  53
+# Memory read M[240] =  80
+# Memory write M[ 48] = 101
+# Memory read M[113] = 129
+# Memory read M[241] =  33
+# Memory write M[ 49] = 160
+# Memory read M[114] =  58
+# Memory read M[242] =  67
+# Memory write M[ 50] = 121
+# Memory read M[115] = 232
+# Memory read M[243] =   7
+# Memory write M[ 51] = 239
+# Memory read M[116] = 123
+# Memory read M[244] =  14
+# Memory write M[ 52] = 117
+# Memory read M[117] = 178
+# Memory read M[245] =  28
+# Memory write M[ 53] = 174
+# Memory read M[118] =  24
+# Memory read M[246] =  56
+# Memory write M[ 54] =  32
+# Memory read M[119] = 209
+# Memory read M[247] = 113
+# Memory write M[ 55] = 160
+# Memory read M[120] =  66
+# Memory read M[248] =  98
+# Memory write M[ 56] =  32
+# Memory read M[121] = 228
+# Memory read M[249] =  68
+# Memory write M[ 57] = 160
+# Memory read M[122] = 169
+# Memory read M[250] =   9
+# Memory write M[ 58] = 160
+# Memory read M[123] = 178
+# Memory read M[251] =  18
+# Memory write M[ 59] = 160
+# Memory read M[124] = 132
+# Memory read M[252] =  36
+# Memory write M[ 60] = 160
+# Memory read M[125] = 105
+# Memory read M[253] =  73
+# Memory write M[ 61] =  32
+# Memory read M[126] =  51
+# Memory read M[254] =  19
+# Memory write M[ 62] =  32
+# Memory read M[127] =   6
+# Memory read M[255] =  38
+# Memory write M[ 63] =  32
+# ** Note: $stop    : C:/cse141L_lab4/prog2_tb.sv(145)
+#    Time: 12605 ns  Iteration: 0  Instance: /decrypt_tb
+# Break in Module decrypt_tb at C:/cse141L_lab4/prog2_tb.sv line 145
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Memory read M[ 73] = 165
+# Memory read M[ 64] =   0
+#    0
+#   0
+#  592
+#   0
+# Memory read M[ 64] =   0
+# Memory write M[192] =  32
+# Memory write M[193] =  65
+# Memory write M[194] =   3
+# Memory write M[195] =   6
+# Memory write M[196] =  12
+# Memory write M[197] =  24
+# Memory write M[198] =  48
+# Memory write M[199] =  97
+# Memory write M[200] =  66
+# Memory write M[201] =   5
+# Memory write M[202] =  10
+# Memory write M[203] =  20
+# Memory write M[204] =  40
+# Memory write M[205] =  81
+# Memory write M[206] =  35
+# Memory write M[207] =  71
+# Memory write M[208] =  15
+# Memory write M[209] =  30
+# Memory write M[210] =  60
+# Memory write M[211] = 121
+# Memory write M[212] = 114
+# Memory write M[213] = 100
+# Memory write M[214] =  72
+# Memory write M[215] =  17
+# Memory write M[216] =  34
+# Memory write M[217] =  69
+# Memory write M[218] =  11
+# Memory write M[219] =  22
+# Memory write M[220] =  44
+# Memory write M[221] =  89
+# Memory write M[222] =  51
+# Memory write M[223] = 103
+# Memory write M[224] =  78
+# Memory write M[225] =  29
+# Memory write M[226] =  58
+# Memory write M[227] = 117
+# Memory write M[228] = 106
+# Memory write M[229] =  84
+# Memory write M[230] =  41
+# Memory write M[231] =  83
+# Memory write M[232] =  39
+# Memory write M[233] =  79
+# Memory write M[234] =  31
+# Memory write M[235] =  62
+# Memory write M[236] = 125
+# Memory write M[237] = 122
+# Memory write M[238] = 116
+# Memory write M[239] = 104
+# Memory write M[240] =  80
+# Memory write M[241] =  33
+# Memory write M[242] =  67
+# Memory write M[243] =   7
+# Memory write M[244] =  14
+# Memory write M[245] =  28
+# Memory write M[246] =  56
+# Memory write M[247] = 113
+# Memory write M[248] =  98
+# Memory write M[249] =  68
+# Memory write M[250] =   9
+# Memory write M[251] =  18
+# Memory write M[252] =  36
+# Memory write M[253] =  73
+# Memory write M[254] =  19
+# Memory write M[255] =  38
+# Memory read M[ 64] =   0
+# Memory read M[192] =  32
+# Memory write M[  0] =  32
+# Memory read M[ 65] = 225
+# Memory read M[193] =  65
+# Memory write M[  1] =  32
+# Memory read M[ 66] = 163
+# Memory read M[194] =   3
+# Memory write M[  2] =  32
+# Memory read M[ 67] = 166
+# Memory read M[195] =   6
+# Memory write M[  3] =  32
+# Memory read M[ 68] = 172
+# Memory read M[196] =  12
+# Memory write M[  4] =  32
+# Memory read M[ 69] = 184
+# Memory read M[197] =  24
+# Memory write M[  5] =  32
+# Memory read M[ 70] = 144
+# Memory read M[198] =  48
+# Memory write M[  6] =  32
+# Memory read M[ 71] =  65
+# Memory read M[199] =  97
+# Memory write M[  7] =  32
+# Memory read M[ 72] = 226
+# Memory read M[200] =  66
+# Memory write M[  8] =  32
+# Memory read M[ 73] = 165
+# Memory read M[201] =   5
+# Memory write M[  9] =  32
+# Memory read M[ 74] = 170
+# Memory read M[202] =  10
+# Memory write M[ 10] =  32
+# Memory read M[ 75] = 180
+# Memory read M[203] =  20
+# Memory write M[ 11] =  32
+# Memory read M[ 76] = 136
+# Memory read M[204] =  40
+# Memory write M[ 12] =  32
+# Memory read M[ 77] = 156
+# Memory read M[205] =  81
+# Memory write M[ 13] =  77
+# Memory read M[ 78] = 209
+# Memory read M[206] =  35
+# Memory write M[ 14] = 114
+# Memory read M[ 79] = 105
+# Memory read M[207] =  71
+# Memory write M[ 15] =  46
+# Memory read M[ 80] = 175
+# Memory read M[208] =  15
+# Memory write M[ 16] =  32
+# Memory read M[ 81] = 201
+# Memory read M[209] =  30
+# Memory write M[ 17] =  87
+# Memory read M[ 82] = 221
+# Memory read M[210] =  60
+# Memory write M[ 18] =  97
+# Memory read M[ 83] = 141
+# Memory read M[211] = 121
+# Memory write M[ 19] = 116
+# Memory read M[ 84] = 129
+# Memory read M[212] = 114
+# Memory write M[ 20] = 115
+# Memory read M[ 85] = 139
+# Memory read M[213] = 100
+# Memory write M[ 21] = 111
+# Memory read M[ 86] = 166
+# Memory read M[214] =  72
+# Memory write M[ 22] = 110
+# Memory read M[ 87] = 189
+# Memory read M[215] =  17
+# Memory write M[ 23] =  44
+# Memory read M[ 88] = 130
+# Memory read M[216] =  34
+# Memory write M[ 24] =  32
+# Memory read M[ 89] = 166
+# Memory read M[217] =  69
+# Memory write M[ 25] =  99
+# Memory read M[ 90] = 228
+# Memory read M[218] =  11
+# Memory write M[ 26] = 111
+# Memory read M[ 91] = 123
+# Memory read M[219] =  22
+# Memory write M[ 27] = 109
+# Memory read M[ 92] = 201
+# Memory read M[220] =  44
+# Memory write M[ 28] = 101
+# Memory read M[ 93] = 249
+# Memory read M[221] =  89
+# Memory write M[ 29] =  32
+# Memory read M[ 94] = 219
+# Memory read M[222] =  51
+# Memory write M[ 30] = 104
+# Memory read M[ 95] = 130
+# Memory read M[223] = 103
+# Memory write M[ 31] = 101
+# Memory read M[ 96] =  60
+# Memory read M[224] =  78
+# Memory write M[ 32] = 114
+# Memory read M[ 97] = 120
+# Memory read M[225] =  29
+# Memory write M[ 33] = 101
+# Memory read M[ 98] =  20
+# Memory read M[226] =  58
+# Memory write M[ 34] =  46
+# Memory read M[ 99] =  85
+# Memory read M[227] = 117
+# Memory write M[ 35] =  32
+# Memory read M[100] = 163
+# Memory read M[228] = 106
+# Memory write M[ 36] =  73
+# Memory read M[101] = 116
+# Memory read M[229] =  84
+# Memory write M[ 37] =  32
+# Memory read M[102] = 222
+# Memory read M[230] =  41
+# Memory write M[ 38] = 119
+# Memory read M[103] = 178
+# Memory read M[231] =  83
+# Memory write M[ 39] =  97
+# Memory read M[104] = 201
+# Memory read M[232] =  39
+# Memory write M[ 40] = 110
+# Memory read M[105] = 187
+# Memory read M[233] =  79
+# Memory write M[ 41] = 116
+# Memory read M[106] =  63
+# Memory read M[234] =  31
+# Memory write M[ 42] =  32
+# Memory read M[107] = 202
+# Memory read M[235] =  62
+# Memory write M[ 43] = 116
+# Memory read M[108] =  18
+# Memory read M[236] = 125
+# Memory write M[ 44] = 111
+# Memory read M[109] =  90
+# Memory read M[237] = 122
+# Memory write M[ 45] =  32
+# Memory read M[110] = 135
+# Memory read M[238] = 116
+# Memory write M[ 46] = 115
+# Memory read M[111] = 141
+# Memory read M[239] = 104
+# Memory write M[ 47] = 101
+# Memory read M[112] =  53
+# Memory read M[240] =  80
+# Memory write M[ 48] = 101
+# Memory read M[113] = 129
+# Memory read M[241] =  33
+# Memory write M[ 49] =  32
+# Memory read M[114] =  58
+# Memory read M[242] =  67
+# Memory write M[ 50] = 121
+# Memory read M[115] = 232
+# Memory read M[243] =   7
+# Memory write M[ 51] = 111
+# Memory read M[116] = 123
+# Memory read M[244] =  14
+# Memory write M[ 52] = 117
+# Memory read M[117] = 178
+# Memory read M[245] =  28
+# Memory write M[ 53] =  46
+# Memory read M[118] =  24
+# Memory read M[246] =  56
+# Memory write M[ 54] =  32
+# Memory read M[119] = 209
+# Memory read M[247] = 113
+# Memory write M[ 55] =  32
+# Memory read M[120] =  66
+# Memory read M[248] =  98
+# Memory write M[ 56] =  32
+# Memory read M[121] = 228
+# Memory read M[249] =  68
+# Memory write M[ 57] =  32
+# Memory read M[122] = 169
+# Memory read M[250] =   9
+# Memory write M[ 58] =  32
+# Memory read M[123] = 178
+# Memory read M[251] =  18
+# Memory write M[ 59] =  32
+# Memory read M[124] = 132
+# Memory read M[252] =  36
+# Memory write M[ 60] =  32
+# Memory read M[125] = 105
+# Memory read M[253] =  73
+# Memory write M[ 61] =  32
+# Memory read M[126] =  51
+# Memory read M[254] =  19
+# Memory write M[ 62] =  32
+# Memory read M[127] =   6
+# Memory read M[255] =  38
+# Memory write M[ 63] =  32
+# ** Note: $stop    : C:/cse141L_lab4/prog2_tb.sv(145)
+#    Time: 13885 ns  Iteration: 0  Instance: /decrypt_tb
+# Break in Module decrypt_tb at C:/cse141L_lab4/prog2_tb.sv line 145
+# Errors: 0, Warnings: 0
+# Compile of data_mem.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of InstROM.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LFSR_prog2_LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of LUT.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of PC.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of TopLevel.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of reg_file.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of Ctrl.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of ALU.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog3_tb.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog2_tb.sv was successful.
+# Errors: 0, Warnings: 0
+# Compile of prog1_tb.sv was successful.
+# End time: 12:18:04 on Aug 22,2021, Elapsed time: 0:15:05
+# Errors: 0, Warnings: 4

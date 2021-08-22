@@ -1,0 +1,117 @@
+C:/cse141L_lab4/prog2_tb.sv {1 {vlog -work work -sv C:/cse141L_lab4/prog2_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:12 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/prog2_tb.sv 
+-- Compiling module decrypt_tb
+
+Top level modules:
+	decrypt_tb
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/prog3_tb.sv {1 {vlog -work work -sv C:/cse141L_lab4/prog3_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:12 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/prog3_tb.sv 
+-- Compiling module decrypt_depad_tb
+
+Top level modules:
+	decrypt_depad_tb
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/ALU.sv {1 {vlog -work work -sv C:/cse141L_lab4/ALU.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:12 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/ALU.sv 
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/TopLevel.sv {1 {vlog -work work -sv C:/cse141L_lab4/TopLevel.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/TopLevel.sv 
+-- Compiling module prog
+
+Top level modules:
+	prog
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:01
+
+} {} {}} C:/cse141L_lab4/InstROM.sv {1 {vlog -work work -sv C:/cse141L_lab4/InstROM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/InstROM.sv 
+-- Compiling module InstROM
+
+Top level modules:
+	InstROM
+End time: 12:17:11 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/Ctrl.sv {1 {vlog -work work -sv C:/cse141L_lab4/Ctrl.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:12 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/Ctrl.sv 
+-- Compiling module Ctrl
+
+Top level modules:
+	Ctrl
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/LUT.sv {1 {vlog -work work -sv C:/cse141L_lab4/LUT.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/LUT.sv 
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+End time: 12:17:11 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/data_mem.sv {1 {vlog -work work -sv C:/cse141L_lab4/data_mem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/data_mem.sv 
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+End time: 12:17:11 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/PC.sv {1 {vlog -work work -sv C:/cse141L_lab4/PC.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/PC.sv 
+-- Compiling module PC
+
+Top level modules:
+	PC
+End time: 12:17:11 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/LFSR_prog2_LUT.sv {1 {vlog -work work -sv C:/cse141L_lab4/LFSR_prog2_LUT.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:11 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/LFSR_prog2_LUT.sv 
+-- Compiling module LFSR_prog2_LUT
+
+Top level modules:
+	LFSR_prog2_LUT
+End time: 12:17:11 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/reg_file.sv {1 {vlog -work work -sv C:/cse141L_lab4/reg_file.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:12 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/reg_file.sv 
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+End time: 12:17:12 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}} C:/cse141L_lab4/prog1_tb.sv {1 {vlog -work work -sv C:/cse141L_lab4/prog1_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 12:17:13 on Aug 22,2021
+vlog -reportprogress 300 -work work -sv C:/cse141L_lab4/prog1_tb.sv 
+End time: 12:17:13 on Aug 22,2021, Elapsed time: 0:00:00
+
+} {} {}}

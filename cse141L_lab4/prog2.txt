@@ -1,0 +1,70 @@
+mov r0 1
+lft r0 3
+lft r0 3
+mov r5 4
+lft r5 2
+add r5 2
+lft r5 2
+add r5 1
+mov sp r5
+lod r5 sp
+lft r5 1
+rft r5 1
+mov r1 0
+loop4: mov sp r0
+lod r2 sp
+lup r2 r1
+add r1 1
+lft r2 1
+rft r2 1
+bne r2 r5
+jump loop4
+sub r1 1
+lup r1
+mov sp r0
+lod r0 sp
+mov r2 1
+lft r2 3
+lft r2 2
+mov r3 6
+lft r3 3
+lft r3 2
+xor r0 r2
+mov sp r3
+ste sp r0
+mov r4 0
+mov r2 1
+lft r2 3
+lft r2 3
+sub r2 1
+loop5: lfsr r0 r1
+add r3 1
+mov sp r3
+ste sp r0
+add r4 1
+bne r4 r2
+jump loop5
+mov r0 0
+mov r1 1
+lft r1 3
+lft r1 3
+mov sp r1
+mov r2 sp
+mov r3 6
+lft r3 3
+lft r3 2
+loop6: mov sp r1
+lod r5 sp
+mov sp r3
+lod r6 sp
+xor r5 r6
+lft r5 1
+rft r5 1
+mov sp r0
+ste sp r5
+add r1 1
+add r0 1
+add r3 1
+bne r0 r2
+jump loop6
+halt
